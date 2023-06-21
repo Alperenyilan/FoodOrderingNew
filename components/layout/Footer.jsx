@@ -88,7 +88,7 @@ const Footer = () => {
         </div>
 
         <div>
-          <p className='text-center mt-10'> 2022 Templates</p>
+          <p className='text-center mt-10'> 2023 Templates</p>
         </div>
       </div>
     </div>
