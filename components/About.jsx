@@ -16,7 +16,7 @@ const About = () => {
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta
             deserunt provident ducimus, aliquid ex officiis blanditiis alias
             cupiditate incidunt ullam debitis dolorum, iste id nam similique
-            distinctio eius aspernatur aliquam.
+            distinctio eius aspernatur.
           </p>
           <button className='btn-primary'>Read More</button>
         </div>
