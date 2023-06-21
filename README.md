@@ -1,5 +1,5 @@
 # FoodOrderingNew
-Installation git clone https://github.com/Alperenyilan/yemeksiparisi.git
+Installation https://github.com/Alperenyilan/FoodOrderingNew.git
 
 Next.js
 
