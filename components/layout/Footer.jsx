@@ -79,7 +79,7 @@ const Footer = () => {
               <div>
                 <i className='fa fa-envelope'>
                   <span className='inline-block ml-2'>
-                    alperenyln1@gmail.com
+                    alperenyln1@gmail.com1111111111111111
                   </span>
                 </i>
               </div>
