@@ -18,7 +18,7 @@ const About = () => {
             cupiditate incidunt ullam debitis dolorum, iste id nam similique
             distinctio eius aspernatur aliquam.
           </p>
-          <button className='btn-primary'>Read More</button>
+          <button className='btn-primary'>Read More Alperen </button>
         </div>
       </div>
     </div>
