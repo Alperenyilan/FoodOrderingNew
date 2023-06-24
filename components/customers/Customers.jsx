@@ -49,7 +49,7 @@ const Customers = () => {
   };
   return (
     //* dış taraf için genel bi container olusturduk */
-    <div className='container mx-auto my-20'>
+    <div className='container mx-auto mb-20 mt-12'>
       <Title addClass='text-[40px] text-center'>What says Our customers</Title>
 
       <Slider {...settings}>
