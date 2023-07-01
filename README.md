@@ -1,5 +1,5 @@
 
-Installation https://github.com/Alperenyilan/FoodOrderingNew.git
+# Installation https://github.com/Alperenyilan/FoodOrderingNew.git
 
 Next.js
 
