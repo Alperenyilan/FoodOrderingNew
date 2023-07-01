@@ -4,9 +4,9 @@ https://github.com/Alperenyilan/FoodOrderingNew.git
 
 Next.js
 
-1.cd client
-2.npm install 
-3.npm run dev
+1.cd client </br>
+2.npm install </br>
+3.npm run dev </br>
 
 Responsive Fixes (It's still going on)
 
