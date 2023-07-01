@@ -14,9 +14,10 @@ Next.js ENV
 
 SERVER_HOST = http://localhost:3000
 
-#Stacks
-Tech Stack Client: Next.js, Tailwind CSS, React, Redux-Toolkit,
-#Packages
+# Tech Stacks
+Tech Stack Client: Next.js, Tailwind CSS, React, Redux-Toolkit
+
+# Packages
 (Packages: axios, tailwindcss,ReactSlick,React Formik,Yup,)
 
 
