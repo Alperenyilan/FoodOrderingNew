@@ -1,23 +1,27 @@
 
-Installation https://github.com/Alperenyilan/FoodOrderingNew.git
+# Installation 
+https://github.com/Alperenyilan/FoodOrderingNew.git
 
 Next.js
 
-cd client npm install npm run dev
+1.cd client </br>
+2.npm install </br>
+3.npm run dev </br>
 
 Responsive Fixes (It's still going on)
 
-Language Support (TR - EN)
+Language Support (TR)
 
 Next.js ENV
 
 SERVER_HOST = http://localhost:3000
 
-Running Tests To run tests, run the following command (Unit testing not yet completed)
+# Tech Stacks
+Tech Stack Client: Next.js, Tailwind CSS, React, Redux-Toolkit
 
-Tech Stack Client: Next.js, Tailwind CSS
-
+# Packages
 (Packages: axios, tailwindcss,ReactSlick,React Formik,Yup,)
+
 
 Demo This project is still under construction and will be added very soon
 
