@@ -1,16 +1,16 @@
 
 # Installation 
-https://github.com/Alperenyilan/FoodOrderingNew.git
 
-Next.js
 
-1.cd client </br>
+Next.js || React
+
+1.cd client https://github.com/Alperenyilan/FoodOrderingNew.git </br>
 2.npm install </br>
 3.npm run dev </br>
 
 Responsive Fixes (It's still going on)
 
-Language Support (TR)
+
 
 Next.js ENV
 
