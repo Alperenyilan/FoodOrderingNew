@@ -6,7 +6,7 @@ import { passwordChangeSchema } from "../../schema/passwordChange";
 
 const Password = () => {
   const onSubmit = async (values, actions) => {
-    await new Promise((resolve) => setTimeout(resolve, 4000));
+    await new Promise((resolve) => setTimeout(resolve, 2000));
     actions.resetForm();
   };
 
@@ -52,9 +52,7 @@ const Password = () => {
           />
         ))}
       </div>
-      <button className='btn-primary  mt-4' >
-        Update
-      </button>
+      <button className='btn-primary  mt-4'>Update</button>
     </form>
   );
 };

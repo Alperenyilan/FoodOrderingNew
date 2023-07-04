@@ -6,11 +6,11 @@ import { GiHamburgerMenu } from "react-icons/gi";
 import { AiFillCloseCircle } from "react-icons/ai";
 import { useRouter } from "next/router";
 import Link from "next/link";
-
+import { useSelector } from "react-redux";
 const Header = () => {
   const [isSearchModal, setIsSearchModal] = useState(true);
   const [isMenuModal, setIsMenuModal] = useState(false);
-
+  const cart = useSelector((state) => state.cart);
   const router = useRouter();
 
   return (
@@ -58,7 +58,9 @@ const Header = () => {
             <FaUserAlt className='hover:text-primary transition-all cursor-pointer' />
           </Link>
           <Link href='/cart'>
+            <span className='relative'></span>
             <FaShoppingCart className='hover:text-primary transition-all cursor-pointer' />
+            <span>{cart.products.length}</span>
           </Link>
           <button onClick={() => setIsSearchModal(true)}>
             <FaSearch className='hover:text-primary transition-all cursor-pointer' />
