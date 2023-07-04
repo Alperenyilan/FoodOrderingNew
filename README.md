@@ -1,6 +1,6 @@
 
 # Installation 
-https://github.com/Alperenyilan/FoodOrderingNew.git
+
 
 Next.js
 
