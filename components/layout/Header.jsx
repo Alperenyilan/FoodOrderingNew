@@ -58,9 +58,12 @@ const Header = () => {
             <FaUserAlt className='hover:text-primary transition-all cursor-pointer' />
           </Link>
           <Link href='/cart'>
-            <span className='relative'></span>
-            <FaShoppingCart className='hover:text-primary transition-all cursor-pointer' />
-            <span>{cart.products.length}</span>
+            <span className='relative'>
+              <FaShoppingCart className='hover:text-primary transition-all cursor-pointer' />
+              <span className='w-4 h-4 text-xs grid place-content-center rounded-full bg-primary absolute -top-2 -right-3 text-black font-bold'>
+                {cart.products.length === 0 ? "0" : cart.products.length}
+              </span>
+            </span>
           </Link>
           <button onClick={() => setIsSearchModal(true)}>
             <FaSearch className='hover:text-primary transition-all cursor-pointer' />
