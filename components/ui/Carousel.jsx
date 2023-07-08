@@ -22,7 +22,7 @@ const Carousel = () => {
       <div className='absolute top-0 left-0 w-full h-full'>
         <div className='relative h-full w-full'>
           <Image
-            src='/images/hero-bg.jpg'
+            src='/images/bg-piz.jpg'
             alt=''
             layout='fill'
             objectFit='cover'

@@ -11,7 +11,7 @@ const About = () => {
           </div>
         </div>
         <div className='md:w-1/2'>
-          <Title addClass='text-[40px]'>We Are Feane </Title>
+          <Title addClass='text-[40px]'>We Are Logo </Title>
           <p className='my-5 flex flex-col items-center'>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta
             deserunt provident ducimus, aliquid ex officiis blanditiis alias
