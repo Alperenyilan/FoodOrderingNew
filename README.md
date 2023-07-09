@@ -22,6 +22,9 @@ Tech Stack Client: Next.js, Tailwind CSS, React, Redux-Toolkit
 # Packages
 (Packages: axios, tailwindcss,ReactSlick,React Formik,Yup,)
 
+# ScreenShot
+![Ekran görüntüsü 2023-07-09 023351](https://github.com/Alperenyilan/FoodOrderingNew/assets/49797242/04a03826-9fa0-432d-911e-224700dfb384)
+
 
 Demo This project is still under construction and will be added very soon
 
