@@ -14,6 +14,9 @@ Responsive Fixes (It's still going on)
 
 Next.js ENV
 
+# About 
+A website where you can easily order food. The project continues to be developed using Next js. Deficiencies are being checked.
+
 SERVER_HOST = http://localhost:3000
 
 # Tech Stacks
