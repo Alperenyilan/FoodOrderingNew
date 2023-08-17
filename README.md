@@ -20,7 +20,7 @@ A website where you can easily order food. The project continues to be developed
 SERVER_HOST = http://localhost:3000
 
 # Tech Stacks
-Tech Stack Client: Next.js, Tailwind CSS, React, Redux-Toolkit,Context API
+Tech Stack Client: Next.js, Tailwind CSS, React, Redux-Toolkit,Context API,Express
 
 # Packages
 (Packages: axios, tailwindcss,ReactSlick,React Formik,Yup,)
